@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fff;
+    font-family: 'roboto';
+    
+}
+
+.barDiscount {
+    position: absolute;
+    width: 1024px;
+    height: 38px;
+    background-color: rgba(28, 209, 176, 1);
+
+}
+
+.barDiscount p {
+    position: absolute;
+    width: 111px;
+    height: 18px;
+    left: 27px;
+    top: 10px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.header {
+    background-color: rgba(0, 102, 159, 1);
+    position: absolute;
+    width: 1024px;
+    height: 101px;
+    top: 38px;
+    left: 0px;
+}
+
+.header__heroes {
+    position: absolute;
+    width: 128px;
+    height: 47px;
+    left: 28px;
+    top: 28px;
+
+    font-family: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.carContainer {
+    margin: 10px auto;
+    position: absolute;
+}
+
+.card {
+    position: relative;
+    background-color: #f3f3f3;
+    width: 300px;
+    height: 529px;
+    left: 32px;
+    top: 200px;
+}
+
+.card__header {
+    position: absolute;
+    width: 300px;
+    height: 529px;
+}
+
+.card__batman {
+    position: absolute;
+    left: 90px;
+    top: 115px;
+    border-radius: 50%;
+}
+
+.card__heart {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+.car__title {
+    position: absolute;
+    top: 200px;
+}
+
+.card__body {
+    position: absolute;
+    top: 230px;
+    text-align: center;
+}
+
+.card__body h2 {
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 35px;
+    padding-bottom: 30px;
+}
+
+.card__body p{
+    text-align: left;
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+}
+
+.card__button{
+    background: rgba(0, 102, 159, 1);
+    border-radius: 5px;
+    color: #fff;
+    display: block;
+    margin: 40px auto;
+    padding: 12px;
+    text-decoration: none;
+    width: 140px;
+  }
+
+.footer{
+    background-color:rgba(0, 102, 159, 1);
+    position: absolute;
+    width: 1024px;
+    height: 51px;
+    top: 780px;
+
+}
+.footer p{
+    color: #fff;
+    position: absolute;
+    left: 16px;
+    top: 16px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}

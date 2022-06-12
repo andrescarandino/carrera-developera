@@ -1,0 +1,23 @@
+.main-inferior{
+    text-align: center;
+}
+.top-right{
+    text-align: right;
+
+}
+.top{
+    background-color: black;
+    color: white;
+}
+.header{
+    background-color: #F0A83E;
+}
+.header-menu{
+    text-align: right;
+}
+.main-superior{
+    background-image: url(/img/bowl-and-pet-daities-on-green-background\ 1.png);
+    width: 1024px;
+    height: 409px;
+    text-align: right;
+}

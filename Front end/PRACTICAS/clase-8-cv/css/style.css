@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(128, 128, 128, 0.707);
+}
+.batman{
+    background-image: url(../img/bannerBatman.jpg);
+    background-size: contain;
+}
+h1 {
+    text-align: center;
+    
+}
+span{
+    font-weight: 600;
+}
+img{
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 150px;
+    }
+footer{
+    text-align: center;
+}
+h2{
+    background-color: rgb(128, 128, 128);
+}

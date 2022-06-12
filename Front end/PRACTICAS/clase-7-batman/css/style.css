@@ -1,0 +1,15 @@
+h3{
+    background-color: rgb(118, 90, 90);
+}
+h1{
+    background-color: rgb(118, 90, 90); 
+    text-transform: uppercase;
+    text-align: center;
+}
+img{
+    display:block; 
+    margin:auto;
+}
+span{
+    font-weight: bold;
+}
